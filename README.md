@@ -4,7 +4,6 @@ This is a simple project. I'm throwing it up on here so I can share with people 
 
 As of 2/28/18 the way this little turd works on the command line is:
 
-It will ask you to enter a URL (you can also just search for a song like you would on youtube).
-Then it will ask where you want to download it too (this is broke atm, hope to fix soon). After that it will download the selected link or search and convert it using ffmpeg to mp3 and store into your directory of choice.
+You will be prompted to search for a song or to input a link to a song. Then you will be prompted on where to download this song to. If you just hit enter afterwards the song should download to your current working directory. 
 
 -REV
